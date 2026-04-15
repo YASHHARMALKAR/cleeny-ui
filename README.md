@@ -7,7 +7,7 @@ A modern, responsive cleaning service website built using **React + Vite + Tailw
 ## 🚀 Live Demo
 
 👉 Add your deployed link here
-Example: https://cleeny-ui.vercel.app/ need to add
+Example: https://git commit -m "Initial commit".vercel.app/ need to add
 
 ---
 

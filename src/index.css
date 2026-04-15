@@ -59,3 +59,10 @@
 .animate-floatBg {
   animation: floatBg 2s ease-in-out infinite; 
 }
+html {
+  scroll-behavior: smooth;
+}
+
+section {
+  scroll-margin-top: 100px;
+}
